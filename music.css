@@ -1,0 +1,11 @@
+@import "left.css";
+@import "right.css";
+
+#boss{
+    width: 100%;
+    height: 900px;
+    background-color: rgb(204, 203, 203);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
